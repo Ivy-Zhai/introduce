@@ -1,0 +1,27 @@
+body{
+	font-family: 楷体;
+	margin-left: 10%;
+	margin-right: 10%;
+	color: white;
+}
+
+a:link{
+	color: white;
+	text-decoration: none;
+}
+
+a:active,a:hover{
+	color:white;
+	text-decoration: underline;
+	background-color: #909090;
+}
+
+a:visited{
+	color:#D0D0D0;
+	text-decoration: none;
+}
+
+p{
+	white-space: nowrap;
+	text-align: center;
+}

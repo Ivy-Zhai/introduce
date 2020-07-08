@@ -1,0 +1,49 @@
+h1{
+	text-align: center;
+}
+
+
+h5{
+	color: #909090;
+	text-align: right;
+}
+
+audio{
+	vertical-align: middle;
+}
+
+body{
+	margin-left: 15%;
+	margin-right: 15%;
+	padding: 10px 10px 10px 10px;
+	font-family: 楷体;
+}
+
+tr{
+	height: 50px;
+}
+
+tr th{
+	border: 3px insert;
+	width: 200px;
+	background-color: #3867FF;
+	font-size: 20px;
+	font-family: "楷体";
+}
+
+a:link{
+	color: white;
+	text-decoration: none;
+}
+
+a:active,a:hover{
+	color:white;
+	text-decoration: underline;
+	background-color: #6E91FF;
+}
+
+a:visited{
+	color:#D0D0D0;
+	text-decoration: none;
+}
+
